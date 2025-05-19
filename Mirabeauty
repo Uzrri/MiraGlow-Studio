@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MiraGlow Studio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="hero">
+    <div class="hero-text">
+      <h1>Sublimez votre regard, perfectionnez vos mains, la beauté commence ici !</h1>
+      <a href="#services" class="btn">Découvrir</a>
+    </div>
+  </header>
+  <div class="services">
+<p>Bienvenue chez MiraGlow Studio, votre espace beauté dédié à la mise en valeur de votre regard et de vos mains <img src="https://img.icons8.com/?size=15&id=p7MI4JnqXYvv&format=png&color=000000" alt="coeur"></p>
+    </div>
+  <section id="services" class="section">
+    <h2>Nos Services</h2>
+    <div class="services">
+      <div class="service">
+        <img src="https://img.icons8.com/?size=100&id=YdyMJvQ3b9Wj&format=png&color=000000" alt="Cils">
+        <h3>Cils</h3>
+        <p>Faites chavirer les coeurs d'un simple regard.</p>
+      </div>
+      
+      <div class="service">
+        <img src="https://img.icons8.com/?size=100&id=61335&format=png&color=000000" alt="Ongles">
+        <h3>Soin des ongles</h3>
+        <p>Sublimez vos mains avec douceur et soin.</p>
+      </div>
+      
+    </div>
+    <div class ="image">
+    <img src="cils.jpg" alt="Cils2">
+    <img src="ongle.png" alt="Ongles2">
+</div>
+     
+  </section>
+
+  <section id="rdv" class="section">
+    <h2>Prendre Rendez-vous sur Toulouse (31400) ou sur Gaillac (81600)</h2>
+    <p>Choisissez votre créneau horaire en ligne facilement.</p>
+    <a href="https://www.snapchat.com/add/amiraa.ad31" class="btn">Réserver maintenant</a>
+    
+  </section>
+
+  <section id="paiement" class="section">
+    <h2>Paiement sur place</h2>
+    <p>Tarif de lancement : 
+        <BR> Cils : 40 €
+        <BR> Ongles : 20 €
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 MiraGlow Studio. Tous droits réservés.</p>
+  </footer>
+
+</body>
+</html>
